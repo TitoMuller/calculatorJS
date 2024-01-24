@@ -1,5 +1,5 @@
 # Calculadora feita com JavaScript
-Projeto feito pra consolidar o conhecimento de integração do HTML, CSS e JavaScript. Nele, além de uma calculadora totalmente funcional com tratamento de erro, o usuário ainda pode optar por diferente temas.
+Projeto feito pra consolidar o conhecimento de integração do HTML, CSS e JavaScript. Nele, além de uma calculadora totalmente funcional com tratamento de erro, o usuário ainda pode optar pelo tema escuro e tema claro.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -14,7 +14,8 @@ Projeto feito pra consolidar o conhecimento de integração do HTML, CSS e JavaS
 * CSS
 * JavaScript
 
-- Components de UI
+- Funcionalidades:
+  
     - Tratamento de Erro
     - Responsividade
     - Botão com função de copiar o resultado diretamente pra área de transferência do usuário
